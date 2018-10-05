@@ -1,0 +1,2 @@
+module LauraHelper
+end
